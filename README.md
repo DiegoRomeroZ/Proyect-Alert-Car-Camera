@@ -17,3 +17,17 @@ Diseñar e implementar un sistema capaz de detectar signos físicos de fatiga en
 
  📁 Estructura del proyecto
 
+- [Proyecto_Alert_Car_Camera_v1.doc.docx](https://github.com/user-attachments/files/20845733/Proyecto_Alert_Car_Camera_v1.doc.docx)
+
+- Codigo del Proyecto
+
+- Diseño del proyecto
+
+- Circuitos
+
+- [esp32-s3_datasheet_en.pdf](https://github.com/user-attachments/files/20845739/esp32-s3_datasheet_en.pdf)
+
+- 
+
+📅 Avances semanales
+
