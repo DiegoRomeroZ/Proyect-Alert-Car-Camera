@@ -13,3 +13,9 @@ Definición del problema y objetivos generales/específicos.
 - Inicio del diseño del circuito en EasyEDA.
 
 - Redacción preliminar del informe técnico.
+  
+- Programación inicial del sistema de alertas por fatiga.
+
+- Pruebas preliminares en protoboard: validación de detección de parpadeos y activación del buzzer.
+  
+- Registro de resultados: frecuencia de parpadeos, tiempo de reacción y nivel de sonido emitido.
