@@ -3,5 +3,17 @@ Diseño de un sistema embebido de bajo costo que detecta signos de fatiga en con
 
 🎯 Objetivo
 
-Diseñar e implementar un sistema embebido capaz de detectar signos físicos de fatiga en conductores mediante visión artificial, y emitir alertas sonoras adaptativas que ayuden a prevenir accidentes de tránsito en carreteras.
+Diseñar e implementar un sistema capaz de detectar signos físicos de fatiga en conductores mediante visión artificial, y emitir alertas sonoras adaptativas que ayuden a prevenir accidentes de tránsito en las carreteras.
+
+👥 Integrantes
+
+- Leonardo Ángeles Gómez Baca
+
+-	Karoldavid Gioanny De la Cruz 
+
+- Andrea Muñoz Luján Ripoll 
+
+-	Diego Axel Romero Zapata
+
+ 📁 Estructura del proyecto
 
